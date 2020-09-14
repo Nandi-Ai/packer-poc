@@ -1,3 +1,7 @@
+# Packer POC
+
+Sample usage for [packer](https://www.packer.io/) by hashicorp 
+
 # Before running
 `AWS_ACCESS_KEY_ID='your_key'`
 
